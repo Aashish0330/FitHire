@@ -1,6 +1,0 @@
-const initialState = {
-
-    jobs : []
-
-}
-
